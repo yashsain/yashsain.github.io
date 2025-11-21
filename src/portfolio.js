@@ -106,7 +106,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "IIT Kharagpur",
-      logo: require("./assets/images/iitkgpLogo.svg"),
+      logo: require("./assets/images/iitkgpLogo.png"),
       subHeader: "MTech & BTech (5-Year Dual Degree)",
       duration: "2018 - 2023",
       desc: "CGPA: 7.89/10. Completed a 5-year Dual Degree program earning both B.Tech and M.Tech degrees.",
