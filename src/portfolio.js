@@ -144,7 +144,7 @@ const workExperiences = {
     {
       role: "Frontend Tech Lead",
       company: "Hiccup Dating App",
-      companylogo: require("./assets/images/facebookLogo.png"), // Replace with company logo
+      companylogo: require("./assets/images/hiccupLogo.png"),
       date: "Feb 2025 – Oct 2025",
       desc: "Architected production-grade cross-platform app using Flutter, gRPC, and protobuf with fully async, event-driven communication.",
       descBullets: [
@@ -156,7 +156,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Optym",
-      companylogo: require("./assets/images/quoraLogo.png"), // Replace with company logo
+      companylogo: require("./assets/images/optymLogo.png"),
       date: "Jul 2023 – Feb 2025",
       desc: "Built backend services for GateAI (Southwest Airlines) managing aircraft gate assignments processing ~1M flight events per airport daily.",
       descBullets: [
