@@ -142,6 +142,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Engineer / Full-Stack Developer",
+      company: "Aachaarya AI",
+      companylogo: require("./assets/images/aachaaryaLogo.png"),
+      date: "Dec 2025 – Feb 2026",
+      desc: "Architected multi-tenant SaaS with Next.js 14, TypeScript, Supabase, and AI pipeline with Gemini Batch API for structured outputs.",
+      descBullets: [
+        "Engineered AI pipeline with Gemini Batch API, Function Calling, and context caching (1M+ tokens) reducing costs 75%",
+        "Implemented RAG with vector embeddings, pgvector similarity search, and document chunking for intelligent retrieval",
+        "Built serverless PDF pipeline with Puppeteer solving Devanagari rendering, bilingual layouts, and KaTeX math"
+      ]
+    },
+    {
       role: "Frontend Tech Lead",
       company: "Hiccup Dating App",
       companylogo: require("./assets/images/hiccupLogo.png"),
